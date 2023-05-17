@@ -15,7 +15,6 @@ Hi there 👋<br>I am Bayyavarapu Chandu<br><br>I am a mechatronics engineer wit
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandu106&show_icons=true&locale=en" alt="chandu106" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandu106&" alt="chandu106" /></p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad5454&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chandu1061&show_icons=true&locale=en&layout=compact" alt="Chandu106" /></
+![igus-do-brasil-igus](https://user-images.githubusercontent.com/92617405/235196052-99f126db-abc2-44a2-a3f6-4c1d7d54f9db.gif)
 
