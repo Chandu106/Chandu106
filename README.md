@@ -1,14 +1,20 @@
+# 💫 About Me:
+Hi there 👋<br>I am Bayyavarapu Chandu<br><br>I am a mechatronics engineer with a passion for solving complex problems.I am always looking to expand my skillset and stay up to date with the latest trends and technologies in the industry.Feel free to check out my GitHub profile to see some of my projects and contributions.<br>I'm currently studying Mechatronics 🤖 from SRMIST 🏫<br>I am currently learning 📜 Deep learning, Artificial Intelligence.<br>
 
-### Hi there 👋
 
-I am Chandu Bayyavarapu
-- I love programming :computer: and solving puzzles :jigsaw:
-- I'm currently studying Mechatronics :robot: from SRMIST :school:
-- I am currently learning :scroll: Deep learning and neural networks.
-- Find me elsewhere online:
-  - [Instagram](https://instagram.com/chandu.bayyavarapu?igshid=NDk5N2NlZjQ=)
-  - [LinkedIn](https://www.linkedin.com/in/chandu-bayyavarapu-b15282227/)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://www.codechef.com/users/chandu_106" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chandu-bayyavarapu-b15282227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya jambhale" height="30" width="40" /></a>
+<a href="https://www.instagram.com/chandu.bayyavarapu//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamadityajams" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/the_6atman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="the_6atman" height="30" width="40" /></a>
+</p>
 
-[![Chandu's github stats](https://github-readme-stats.vercel.app/api?username=Chandu106&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Chandu106/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chandu106)](https://github.com/anuraghazra/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ad5454&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ad5454&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad5454&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
